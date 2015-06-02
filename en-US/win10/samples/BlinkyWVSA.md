@@ -15,7 +15,7 @@ Learn how to get your PC ready for developing IoT applications using Windows Rem
 
 In your Arduino IDE (version 1.62 or better), go to the menu item File->Examples->VirtualShield->HelloWorld-Speech-Eventing.
 
-Hook up an LED with a resister to pin 8 as per this diagram:
+Hook up an LED with a resistor to pin 8 as per this diagram:
 (image)
 
 Run the Windows Virtual Shields for Arduino app.
